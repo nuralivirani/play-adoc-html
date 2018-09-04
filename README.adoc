@@ -3,3 +3,5 @@
 This repo convert adoc pages to html pages.
 
 Hope, this README file will become index html file.
+
+Copyrights - Nurali Virani
